@@ -1,4 +1,4 @@
-# GooMark Agency
+# GoMark Agency
 
 tecnologias
 sass
