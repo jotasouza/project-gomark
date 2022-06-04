@@ -32,8 +32,7 @@
 
 ## ✔️ Build
 
-<a href="https://project-goomark.vercel.app" target="_blank">GoMark</a>
-[link](https://project-goomark.vercel.app){:target="_blank"}
+[GoMark](https://project-goomark.vercel.app){:target="_blank"}
 
 ## Autores
 
