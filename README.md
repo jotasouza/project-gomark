@@ -30,7 +30,7 @@
 - `Font Awesome`
 
 
-## ✔️ Build
+## ✔️ Deploy
 
 [GoMark](https://project-goomark.vercel.app)
 
